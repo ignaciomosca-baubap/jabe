@@ -60,6 +60,7 @@ public class CRLFLogConverter extends CompositeConverter<ILoggingEvent> {
                 return true;
             }
         }
+
         return false;
     }
 
